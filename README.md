@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Data science and ML Project**
 
-- 👨‍💻 All of my projects are available at [https://nagatoh.github.io/portfolio_projetos/](https://nagatoh.github.io/portfolio_projetos/)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/Nagatoh/portfolio_data_science)
 
 - 💬 Ask me about **Python,Data Science, Angular, Javascript, C#**
 
