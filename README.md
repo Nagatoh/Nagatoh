@@ -1,10 +1,10 @@
 <h1 align="center">Olá 👋, Sou Humberto Cassio Nagato Fonseca</h1>
-<h3 align="center">Cientista de Dados</h3>
+<h3 align="center">Cientista de Dados / Engenheiro de Software</h3>
 
 ## Sobre mim
-Sou **Cientista de Dados** com experiência em projetos práticos de ciência de dados.
+Possuo experiência em projetos práticos de ciência de dados e de Desenvolvimento de Software.
 
-Realizo Estudos e desenvolvo produtos de dados usando técnicas de Machine Learning para solucionar problemas de negócio de empresas no setor privado.
+Atualmente Realizo Estudos e desenvolvo produtos de dados usando técnicas de Machine Learning para solucionar problemas de negócio de empresas no setor privado.
 Desenvolvo produtos de dados, seja através de Análises e técnicas de Machine Learning ou Estatística para solucionar problemas de negócio para as empresas.
 
 Tenho domínio de todas as etapas de um projeto de ciência de dados, desde o entendimento do problema de negócio, coleta e extração desses dados, feature engineering, modelagem dos dados, construção de algoritmos de machine learning perfomáticos, até a parte final de colocá-lo em produção e gerar retorno financeiro a empresa.
